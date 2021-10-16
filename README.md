@@ -1,7 +1,4 @@
-<h2> Hey, I'm Fernanda Ochoa <img src="https://media.giphy.com/media/L2fhrK3Jpual0S9SLE/giphy.gif" width="80"></h2>
-<img align='right' src="https://media.giphy.com/media/J2UKv6Uh1OwTtRKiWV/giphy.gif" width="230">
 
-<p><em>Sherpa Digital Data Science at <a href="https://news.microsoft.com/es-xl/mas-de-10-mil-
 ```javascript
 const Fer = {
   pronouns: "She" | "Her",
