@@ -10,4 +10,4 @@ const Mane = {
 }
 ```
 
-<img src="https://gif.gy/post/661910271747670016" width="60"> <em><b> "20 sec of courage is all that you need to start believing in you"</b> </em>
+<img src="![image](https://user-images.githubusercontent.com/86861595/137603295-63205c89-fbd4-4c31-bc09-09d0a5840bae.png)" width="60"> <em><b> "20 sec of courage is all that you need to start believing in you"</b> </em>
