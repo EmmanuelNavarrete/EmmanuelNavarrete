@@ -13,4 +13,4 @@ const Mane = {
 }
 ```
 
-<img src="https://64.media.tumblr.com/99bb0b37fdd40b7eb2efebe1eba93326/tumblr_nart4jk8h61qm3a1jo1_100.gifv" width="60"> <em><b> "20 sec of courage is all that you need to start believing in you"</b> </em>
+<img src="https://64.media.tumblr.com/99bb0b37fdd40b7eb2efebe1eba93326/tumblr_nart4jk8h61qm3a1jo1_100.gifv" width="80"> <em><b> "Puedes rendirte, pero tambien puedes hacerlo"</b> </em>
