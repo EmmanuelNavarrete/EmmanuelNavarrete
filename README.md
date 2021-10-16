@@ -1,3 +1,4 @@
+<h2> Hey, I'm Emmanuel Lopez <img src="https://media.giphy.com/media/L2fhrK3Jpual0S9SLE/giphy.gif" width="80"></h2>
 
 ```javascript
 const Mane = {
