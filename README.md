@@ -95,7 +95,7 @@
 
 <br/>  
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1290490406&unique={true|1|on|yes})
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12904904066&count=1)
 
 
