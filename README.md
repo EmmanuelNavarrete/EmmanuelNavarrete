@@ -98,6 +98,6 @@
 
 <br/>  
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1290490406&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1290490406&unique={true|1|on|yes})
 
 
