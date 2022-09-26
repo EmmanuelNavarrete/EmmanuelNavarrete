@@ -1,7 +1,7 @@
 
 
 ### <div align="center">I'm Emmanuel, a full-time full-stack freelance developer 👨‍💻 </div>  
-  
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1290490406&unique={true|2|on|yes})
 
 <br/>  
 
